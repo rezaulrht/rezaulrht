@@ -1,5 +1,20 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif" alt="Mario Banner" />
+</p>
+
+
+
 <h1 align="center">Hi 👋, I'm Md. Rezaul Karim</h1>
-<h3 align="center">A passionate Frontend Developer from Bangladesh 🇧🇩</h3>
+
+<p align="center">
+ A frontend-focused web developer who loves crafting clean UIs and smooth, user-friendly experiences. <br/>
+  Currently diving deep into the <strong>MERN Stack</strong> <br/>
+  Experimenting with <strong>Next.js</strong> and modern frontend workflows <br/>
+  Interested in building practical, real-world applications <br/>
+  Always learning and improving within the JavaScript ecosystem  
+</p>
+
+
 
 ---
 
@@ -51,6 +66,11 @@
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=rezaulrht&show_icons=true&theme=tokyonight" />
 </p>
+
+---
+
+## 📊 GitHub Streaks  
+[![GitHub Streak](https://streak-stats.demolab.com?user=rezaulrht)](https://git.io/streak-stats)
 
 ---
 
