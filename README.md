@@ -4,6 +4,11 @@
 
 <h1 align="center">Hi 👋, I'm Md. Rezaul Karim</h1>
 
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&center=true&vCenter=true&lines=Frontend+Developer;MERN+Stack+Learner;JavaScript+Explorer;Always+Learning+New+Things" />
+</p>
+
 <p align="center">
  A frontend-focused web developer who loves crafting clean UIs and smooth, user-friendly experiences. <br/>
  Currently diving deep into the <strong>MERN Stack</strong> <br/>
@@ -115,3 +120,11 @@
 </p>
 
 ---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/rezaulrht/rezaulrht/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
